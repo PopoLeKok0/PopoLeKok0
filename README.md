@@ -1,17 +1,35 @@
-## Hey there 👋
-[![Mouad's github stats](https://github-readme-stats.vercel.app/api?username=PopoLeKok0&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+## Hey there 👋 I'm Mouad!
 
-<!--
-**PopoLeKok0/PopoLeKok0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-Year Computer Engineering Student @uOttawa  
+💻 Software Developer at Hack the Hill | Exam Proctor @uOttawa  
+🚀 Passionate about AI, FPGA design, robotics, and software development  
+🌱 Currently seeking Summer 2025 internship opportunities  
 
-Here are some ideas to get you started:
+### 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mouadbenlahbib/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web)](https://mouadbenlahbib.tech/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Tech Stack:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-0055A4?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge&logo=powerbi&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+[![Mouad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PopoLeKok0&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
