@@ -26,7 +26,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-0055A4?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge&logo=powerbi&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ---
 
