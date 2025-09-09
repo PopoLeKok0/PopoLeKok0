@@ -1,7 +1,6 @@
 ## Hey there 👋 I'm Mouad!
 
-🎓 4th-Year Computer Engineering Student @uOttawa  
-💻 Software Developer at Hack the Hill | Exam Proctor @uOttawa  
+🎓 4th-Year Computer Engineering Student @uOttawa   
 🚀 Passionate about AI, FPGA design, robotics, and software development  
 🌱 Currently seeking Summer 2025 internship opportunities  
 
