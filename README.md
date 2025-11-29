@@ -28,8 +28,3 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
----
-
-## 📊 GitHub Stats:
-[![Mouad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PopoLeKok0&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
