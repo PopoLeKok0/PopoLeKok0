@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Mouad!
 
-🎓 4th-Year Computer Engineering Student @uOttawa   
+🎓 Final Year Computer Engineering Student @uOttawa   
 🚀 Passionate about AI, FPGA design, robotics, and software development  
 🌱 Currently seeking Winter 2026 internship opportunities  
 
