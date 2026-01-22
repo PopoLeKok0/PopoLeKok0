@@ -6,7 +6,7 @@
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mouadbenlahbib/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web)](https://mouadbenlahbib.tech/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web)](https://mbenlahbib.tech/)  
 
 ---
 
