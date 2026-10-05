@@ -2,7 +2,7 @@
 
 🎓 Master's student ECE (Applied AI) @uOttawa   
 🚀 Passionate about AI, FPGA design, robotics, and software development  
-🌱 Currently seeking Winter 2026 internship opportunities  
+ 
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mouadbenlahbib/)  
