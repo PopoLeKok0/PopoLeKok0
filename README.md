@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Mouad!
 
-🎓 Final Year Computer Engineering Student @uOttawa   
+🎓 Master's student ECE (Applied AI) @uOttawa   
 🚀 Passionate about AI, FPGA design, robotics, and software development  
 🌱 Currently seeking Winter 2026 internship opportunities  
 
